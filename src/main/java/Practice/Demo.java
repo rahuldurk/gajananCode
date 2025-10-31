@@ -20,18 +20,7 @@ public class Demo {
 		System.out.println("Hello I made changes in this file...1000111111");
 
 		System.out.println("Hello I made changes in this file...10100");
-<<<<<<< HEAD
-<<<<<<< HEAD
-		System.out.println("Hello I made changes in this file...2300000");
-
-		
-=======
 		System.out.println("Hello I made changes in this file...10101");
->>>>>>> b2c3332462099e7e3638bc60784b1cebe096471f
-=======
-		System.out.println("Hello I made changes in this file...10111111111111111111");
-		System.out.println("Hello I made changes in this file...101012");
->>>>>>> 975bee507c2e80f94a04ca419ed2891201a9bbb8
 		
 
 
